@@ -16,7 +16,4 @@ Este proyecto es un pequeño catálogo web para el nivel Code 101 - Elementals
 - font-size: tamaño del texto
 - text-aling: controla el posicionamiento del texto
 - color: color del texto
-
------
-
-[Ir a Demo](/demo/index.html)
+### [Ir a Demo](/catalogo-wed/demo/index.html)
